@@ -1,0 +1,16 @@
+# Środowisko wirtualne
+.venv/
+venv/
+env/
+
+# Konfiguracja PyCharma
+.idea/
+
+# Pliki Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Baza danych i logi
+db.sqlite3
+*.log
